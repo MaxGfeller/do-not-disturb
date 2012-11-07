@@ -1,0 +1,14 @@
+{
+	"name": "dnd",
+	"description": "Do not disturb",
+	"version": "0.1.0",
+	"author": "Max Gfeller <max.gfeller@gmail.com>",
+	"homepage": "https://www.github.com/MaxGfeller/do-not-disturb",
+	"bugs": "https://www.github.com/MaxGfeller/do-not-disturb/issues",
+	"bin": {
+		"dnd": "./dnd"
+	},
+	"engines": {
+		"node": "*"
+	}
+}
